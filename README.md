@@ -1,6 +1,6 @@
 # Hi, I'm Saksham Sahu 👋
 
-🎓 B.Tech CSE Student at Bennett University (CGPA: 8.68)  
+🎓 B.Tech CSE Student at Bennett University
 💻 Full Stack Developer | 📊 Data Analyst | 🤖 ML Enthusiast  
 🏆 National Level Hackathon Winner  
 📍 Noida, India  
@@ -20,11 +20,11 @@
 
 **Programming:** C++, Python, JavaScript  
 
-**Web Development:** React.js, Node.js, Express.js, HTML, CSS  
+**Web Development:** React.js, Node.js, Express.js, RESTful APIs, HTML5, CSS3, Postman, JSON
 
-**Databases:** MySQL, MongoDB, Firebase  
+**Databases:** MySQL, MongoDB, Firebase (Firestore)
 
-**Tools:** Git, GitHub, Power BI, Tableau, VS Code  
+**Tools:** MS Power BI, Figma, Tableau, GitHub, VS Code, Google Colab, MS Excel 
 
 **Data Science:** Pandas, NumPy, Scikit-learn, Matplotlib  
 
