@@ -1,160 +1,157 @@
 <div align="center">
 
-# Hi, I am Saksham Sahu 
+# Hi, I am SAKSHAM SAHU
 
-### Software Engineer | Backend & Distributed Systems | GenAI / RAG
+### Software Engineer · Backend & Distributed Systems · GenAI / RAG
 
 Building scalable backend systems, distributed applications, and AI-powered products.
+
+[Portfolio](https://sakshamsahu.me) · [LinkedIn](https://linkedin.com/in/sahusaksham10) · [LeetCode](https://leetcode.com/u/amSaksham) · [Email](mailto:sakshamsahu77783@gmail.com)
 
 </div>
 
 ---
 
-## About Me
+## About
 
-I'm a Computer Science Engineering student at **Bennett University** with a strong interest in backend engineering, distributed systems, and Generative AI.
+CSE student at **Bennett University** focused on **backend engineering, distributed systems, and Generative AI**. I build production-oriented systems with an emphasis on **scalability, performance, observability, and reliability**.
 
-I enjoy building systems that are **scalable, observable, performant, and production-oriented** — from event-driven microservices to enterprise RAG platforms.
-
-### What I work on
-
-- ⚙️ Backend Engineering & Distributed Systems
-- 🏗️ Microservices & Event-Driven Architecture
-- 🤖 Generative AI, Agentic RAG & LLM Applications
-- 🚀 API Performance, Scalability & Observability
-- 🗄️ Databases, Caching & Data Pipelines
-- 🧠 Data Structures, Algorithms & System Design
-
-**700+ DSA problems solved on LeetCode.**
+**700+ LeetCode problems** · **Microservices** · **Event-Driven Systems** · **Agentic RAG**
 
 ---
 
 ## Experience
 
-### DRDO, Ministry of Defence
-
-**Generative AI Intern**  
+### DRDO · Generative AI Intern
 `May 2026 – Jul 2026`
 
-- Engineered a secure, locally hosted **Advanced RAG system** on Unix/Linux using LLMs, vector databases, and embedding models.
-- Achieved **92.5% retrieval accuracy** on a 460-question benchmark over a confidential knowledge base.
-- Developed Hybrid RAG architectures combining semantic search, keyword retrieval, and reranking while reducing query latency by **~25%**.
-- Built scalable document processing pipelines handling **11,000+ pages**, including chunking, embedding generation, indexing, and structured logging.
-- Reduced hallucinations through multi-stage retrieval.
+- Built a locally hosted **Advanced RAG system** processing **11,000+ pages** on Unix/Linux.
+- Achieved **92.5% retrieval accuracy** on a 460-question benchmark and reduced query latency by **~25%**.
 
-### Imarticus Learning
-
-**Data Analyst Intern**  
+### Imarticus Learning · Data Analyst Intern
 `Jun 2025 – Jul 2025`
 
-- Led a team of **5 analysts** to develop interactive dashboards delivering key business insights to stakeholders.
-- Analyzed **50,000+ row business datasets** using MySQL, Python, and Power BI.
-- Visualized insights using Matplotlib and Seaborn for weekly stakeholder reports.
+- Led **5 analysts** and built business dashboards using **MySQL, Python, and Power BI**.
+- Analyzed **50,000+ row datasets** and delivered recurring stakeholder insights.
 
 ---
-# Featured Projects
 
-## Parakh Trading Intelligence
+## Featured Projects
 
+<table>
+<tr>
+<td width="72%" valign="top">
+
+### Parakh Trading Intelligence
 **Event-Driven Algorithmic Trading Platform**
 
-`NestJS` `TypeScript` `Kafka` `TimescaleDB` `Redis` `Docker` `OpenTelemetry`
+Built **9 microservices** for real-time market data, backtesting, alerts, and trading workflows.
 
-- Built an event-driven trading platform with **9 microservices and Kafka** for real-time market data, backtesting, and alerts.
-- Implemented time-series indicators, circuit breakers, distributed tracing, and Redis caching.
-- Achieved **~1,470 req/s** with **113ms P95 latency** at 100 concurrent users.
+**~1,470 req/s · 113ms P95 · Circuit Breakers · Distributed Tracing**
 
-> `9 Microservices` · `~1,470 req/s` · `113ms P95`
+</td>
+<td width="28%" align="right" valign="top">
 
----
+<img src="https://img.shields.io/badge/NestJS-000000?style=flat-square&logo=nestjs&logoColor=E0234E">
+<img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=3178C6">
+<br>
+<img src="https://img.shields.io/badge/Kafka-000000?style=flat-square&logo=apachekafka&logoColor=white">
+<img src="https://img.shields.io/badge/Redis-000000?style=flat-square&logo=redis&logoColor=DC382D">
+<br>
+<img src="https://img.shields.io/badge/TimescaleDB-000000?style=flat-square&logo=timescale&logoColor=FDB515">
+<img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=2496ED">
 
-## Askra AI
+</td>
+</tr>
 
+<tr>
+<td width="72%" valign="top">
+
+### Askra AI
 **Enterprise Agentic RAG Platform**
 
-`React.js` `FastAPI` `FAISS` `BM25` `MongoDB` `Docker` `Grafana`
+Built a **7-layer Agentic RAG pipeline** with hybrid retrieval, reranking, OCR, RBAC, and SSE streaming.
 
-- Built a **7-layer Agentic RAG pipeline** with hybrid FAISS + BM25 retrieval and Cross-Encoder reranking.
-- Added LLM-as-judge self-correction, OCR processing, RBAC, and SSE streaming.
-- Improved answer accuracy from **68% → 92%** and achieved **354ms P95 TTFT**.
+**68% → 92% Accuracy · 354ms P95 TTFT · LLM Self-Correction**
 
-> `7-Layer RAG` · `68% → 92% Accuracy` · `354ms P95 TTFT`
+</td>
+<td width="28%" align="right" valign="top">
+
+<img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=009688">
+<br>
+<img src="https://img.shields.io/badge/FAISS-000000?style=flat-square&logoColor=white">
+<img src="https://img.shields.io/badge/BM25-000000?style=flat-square&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=47A248">
+<img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=2496ED">
+
+</td>
+</tr>
+
+<tr>
+<td width="72%" valign="top">
+
+### Social-ish
+**Real-Time Social Platform**
+
+Built interest-based matching, real-time WebSocket chat, JWT-secured APIs, and Gemini-powered AI features.
+
+</td>
+<td width="28%" align="right" valign="top">
+
+<img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=339933">
+<br>
+<img src="https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=47A248">
+<img src="https://img.shields.io/badge/WebSocket-000000?style=flat-square&logo=socketdotio&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/Gemini-000000?style=flat-square&logo=googlegemini&logoColor=8E75B2">
+
+</td>
+</tr>
+</table>
+
+---
+
+## Tech Stack
+
+| Category | Technologies |
+|:--|:--|
+| **Languages** | C++, Python, Java, JavaScript, TypeScript |
+| **Backend** | Node.js, Express.js, FastAPI, REST APIs |
+| **Frontend** | React.js, Next.js |
+| **Databases** | PostgreSQL, MySQL, MongoDB, Redis |
+| **AI / RAG** | LLMs, RAG, LangChain, LangGraph, FAISS, ChromaDB, BM25 |
+| **Distributed Systems** | Kafka, Microservices, Event-Driven Architecture |
+| **Cloud / DevOps** | AWS, Docker, CI/CD, Unix/Linux |
+| **Observability** | OpenTelemetry, Grafana, k6 |
+| **Tools** | Git, GitHub, Postman, Power BI, Figma |
 
 ---
 
-## Social-ish
+## Achievements
 
-**Real-Time Social Platform for Introverts**
-
-`React.js` `Node.js` `MongoDB` `WebSocket` `Gemini API`
-
-- Built a full-stack social platform with **interest-based matching** and real-time WebSocket chat.
-- Designed JWT-secured REST APIs with MongoDB indexing for fast matching.
-- Integrated **Gemini API** for AI-powered conversational support.
-
----
-
-# Tech Stack
-
-### Languages
-
-`C++` `Python` `Java` `JavaScript` `TypeScript`
-
-### Web & Backend
-
-`React.js` `Next.js` `Node.js` `Express.js` `REST APIs`
-
-### Databases
-
-`MySQL` `MongoDB` `PostgreSQL` `Vector Databases` `TimescaleDB` `Redis`
-
-### Generative AI
-
-`RAG` `LLMs` `LangChain` `LangGraph` `Prompt Engineering` `ChromaDB` `FAISS` `BM25` `Vector Search`
-
-### Cloud & DevOps
-
-`AWS` `Docker` `Git` `CI/CD` `Nginx` `Unix/Linux`
-
-### Distributed Systems & Observability
-
-`Kafka` `Microservices` `OpenTelemetry`
-
-### Tools
-
-`GitHub` `Postman` `Power BI` `Figma` `Grafana` `k6`
+| | Achievement |
+|:--|:--|
+| 🥇 | **Innovate 2.0 — JIIT Noida** · National-Level Winner among 200+ teams |
+| 🎯 | **DRDO RAG System** · 92.5% retrieval accuracy |
+| 🥉 | **TechArena 2025** · 3rd Position |
+| 💻 | **LeetCode** · 700+ DSA Problems |
 
 ---
-# 🏆 Achievements
 
-- **Innovate 2.0 — Hack to Build, JIIT Noida**  
-  National-Level Winner among **200+ teams**
-
-- **DRDO RAG System**  
-  Achieved **92.5% retrieval accuracy** 
-
-- **TechArena 2025 — Project Showcase**  
-  Secured **3rd Position**
-
-- **LeetCode**  
-  Solved **700+ DSA Problems**
----
-
-# 📈 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Saksham0121&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Saksham0121&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Saksham0121&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Saksham0121&theme=tokyonight&hide_border=true" />
 
-</div>
+<br>
 
----
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saksham0121&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saksham0121&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -164,30 +161,24 @@ I enjoy building systems that are **scalable, observable, performant, and produc
 
 ## Connect With Me
 
-<br>
-
 <a href="https://sakshamsahu.me">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-
 <a href="https://linkedin.com/in/sahusaksham10">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
 <a href="https://github.com/Saksham0121">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
 <a href="https://leetcode.com/u/amSaksham">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
-
 <a href="mailto:sakshamsahu77783@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br><br>
 
-Thanks for visiting my profile!
+*Thanks for visiting my profile!*
 
 </div>
