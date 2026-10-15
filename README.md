@@ -6,8 +6,6 @@
 
 Building scalable backend systems, distributed applications, and AI-powered products.
 
-[Portfolio](https://sakshamsahu.me) · [LinkedIn](https://linkedin.com/in/sahusaksham10) · [LeetCode](https://leetcode.com/u/amSaksham) · [Email](mailto:sakshamsahu77783@gmail.com)
-
 </div>
 
 ---
@@ -45,21 +43,22 @@ CSE student at **Bennett University** focused on **backend engineering, distribu
 ### Parakh Trading Intelligence
 **Event-Driven Algorithmic Trading Platform**
 
-Built **9 microservices** for real-time market data, backtesting, alerts, and trading workflows.
+Built an event-driven trading platform using **Java 21, Spring Boot 3, and Apache Kafka**, leveraging Virtual Threads for asynchronous tasks, live market-feed ingestion, and real-time trade alerts. Historical backtesting engine
 
-**~1,470 req/s · 113ms P95 · Circuit Breakers · Distributed Tracing**
 
 </td>
 <td width="28%" align="right" valign="top">
 
-<img src="https://img.shields.io/badge/NestJS-000000?style=flat-square&logo=nestjs&logoColor=E0234E">
-<img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=3178C6">
+<img src="https://img.shields.io/badge/Java_21-000000?style=flat-square&logo=openjdk&logoColor=ED8B00">
+<img src="https://img.shields.io/badge/Spring_Boot_3-000000?style=flat-square&logo=springboot&logoColor=6DB33F">
 <br>
-<img src="https://img.shields.io/badge/Kafka-000000?style=flat-square&logo=apachekafka&logoColor=white">
+<img src="https://img.shields.io/badge/Apache_Kafka-000000?style=flat-square&logo=apachekafka&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=4169E1">
+<br>
 <img src="https://img.shields.io/badge/Redis-000000?style=flat-square&logo=redis&logoColor=DC382D">
 <br>
-<img src="https://img.shields.io/badge/TimescaleDB-000000?style=flat-square&logo=timescale&logoColor=FDB515">
-<img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=2496ED">
+<img src="https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=F5A800">
+<br>
 
 </td>
 </tr>
@@ -72,7 +71,6 @@ Built **9 microservices** for real-time market data, backtesting, alerts, and tr
 
 Built a **7-layer Agentic RAG pipeline** with hybrid retrieval, reranking, OCR, RBAC, and SSE streaming.
 
-**68% → 92% Accuracy · 354ms P95 TTFT · LLM Self-Correction**
 
 </td>
 <td width="28%" align="right" valign="top">
@@ -118,8 +116,8 @@ Built interest-based matching, real-time WebSocket chat, JWT-secured APIs, and G
 
 | Category | Technologies |
 |:--|:--|
-| **Languages** | C++, Python, Java, JavaScript, TypeScript |
-| **Backend** | Node.js, Express.js, FastAPI, REST APIs |
+| **Languages** | Python, Java, JavaScript, TypeScript, C++ |
+| **Backend** | Spring Boot, Spring Data JPA, Hibernate, Node.js, Express.js, FastAPI, REST APIs |
 | **Frontend** | React.js, Next.js |
 | **Databases** | PostgreSQL, MySQL, MongoDB, Redis |
 | **AI / RAG** | LLMs, RAG, LangChain, LangGraph, FAISS, ChromaDB, BM25 |
@@ -151,7 +149,6 @@ Built interest-based matching, real-time WebSocket chat, JWT-secured APIs, and G
 
 <br>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saksham0121&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
